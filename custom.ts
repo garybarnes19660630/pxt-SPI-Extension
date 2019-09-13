@@ -2,7 +2,7 @@
 namespace Pins {
 
     //% blockId="SPI_WRITE_PROCEDURE" block="spi write%x"
-    export function spiWrite(x: string) {
+    export function spiWrite(x: number) {
     }
 
 }
